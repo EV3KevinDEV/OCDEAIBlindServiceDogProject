@@ -1,0 +1,8 @@
+0 Stairs
+1 Doors
+2 Crosswalk/Road
+3 Chair
+4 Sofa
+5 Table
+6 Drawer/Closet
+7 Human
